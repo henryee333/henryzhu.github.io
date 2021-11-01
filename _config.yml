@@ -85,7 +85,7 @@ author:
   bio              : "PhD Student"
   location         : "Stanford, CA"
   employer         :
-  pubmed           : ""
+  pubmed           : # ""
   googlescholar    : "https://scholar.google.com/citations?user=52T2LYoAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
