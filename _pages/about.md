@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hi! I'm a PhD student in the CS department at Stanford University advised by Stefan Wager and Emma Brunskill. My current research interests revolve around developing and using causal inference, sequential decision making, and machine learning methods for a variety of socially impactful application areas. Current ongoing projects I'm involved with include:
-- working with Santa Clara County's Public Defenders Office to distribute transportation assistance to help people get to their pretrial hearings using contextual bandits,
+- working with Santa Clara County's Public Defenders Office to to help people get to pretrial hearings by offering transportation assistance using contextual bandits,
 - using causal inference to analyze the effectiveness of wildfire mitigation strategies (e.g. prescribed burnings).
 
 Previously as an undergraduate I worked with Profs. Sergey Levine and Abhishek Gupta to study deep reinforcement learning for real-world robotic applications.
