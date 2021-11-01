@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Henry Zhu"
-  avatar           : "/files/hong_kong_prof.png"
+  avatar           : "hong_kong_prof.png"
   bio              : "PhD Student"
   location         : "Stanford, CA"
   employer         :
