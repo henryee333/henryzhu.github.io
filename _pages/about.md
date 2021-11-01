@@ -34,6 +34,6 @@ Tuomas Haarnoja, Aurick Zhou, Kristian Hartikainen, George Tucker, Sehoon Ha, Ji
 arXiv, 2019.
 
 
-Dexterous Manipulation with Deep Reinforcement Learning | [Paper](https://arxiv.org/abs/1810.06045)  
+**Dexterous Manipulation with Deep Reinforcement Learning** | [Paper](https://arxiv.org/abs/1810.06045) | [Blog](https://bair.berkeley.edu/blog/2018/08/31/dexterous-manip/)  
 **Henry Zhu***, Abhishek Gupta*, Aravind Rajeswaran, Sergey Levine, Vikash Kumar.  
 _International Conference on Robotics and Automation (ICRA), 2019_.
