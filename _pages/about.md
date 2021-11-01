@@ -19,19 +19,21 @@ Here is my [cv](https://ryzhu.github.io/files/cv.pdf).
 Publications
 =====
 
-**Ingredients of Real World Robotic Reinforcement Learning** | [Paper](https://arxiv.org/abs/2004.12570) | [Video](https://iclr.cc/virtual_2020/poster_rJe2syrtvS.html) | [Blog](https://bair.berkeley.edu/blog/2020/04/27/ingredients/)
-**Henry Zhu**, Justin Yu, Abhishek Gupta, Dhruv Shah, Avi Singh, Vikash Kumar, Sergey Levine. 
+**Ingredients of Real World Robotic Reinforcement Learning** | [Paper](https://arxiv.org/abs/2004.12570) | [Video](https://iclr.cc/virtual_2020/poster_rJe2syrtvS.html) | [Blog](https://bair.berkeley.edu/blog/2020/04/27/ingredients/)  
+**Henry Zhu**, Justin Yu, Abhishek Gupta, Dhruv Shah, Avi Singh, Vikash Kumar, Sergey Levine.  
 Spotlight presentation at _International Conference on Learning Representations (ICLR) 2020_. 
 
 
-**Low-Cost Robotic Benchmarks for Learning** | [Paper](https://arxiv.org/abs/1909.11639)
-Michael Ahn, **Henry Zhu**, Kristian Hartikainen, Hugo Ponte, Abhishek Gupta, Sergey Levine, Vikash Kumar. 
+**Low-Cost Robotic Benchmarks for Learning** | [Paper](https://arxiv.org/abs/1909.11639)  
+Michael Ahn, **Henry Zhu**, Kristian Hartikainen, Hugo Ponte, Abhishek Gupta, Sergey Levine, Vikash Kumar.  
 _Conference on Robotic Learning (CoRL), 2019_.
 
-**Applications of Soft Actor-Critic Algorithms** | [Paper](https://arxiv.org/abs/1812.05905)
-Tuomas Haarnoja, Aurick Zhou, Kristian Hartikainen, George Tucker, Sehoon Ha, Jie Tan, Vikash Kumar, Henry Zhu, Abhishek Gupta, Pieter Abbeel, Sergey Levine. 
+
+**Applications of Soft Actor-Critic Algorithms** | [Paper](https://arxiv.org/abs/1812.05905)  
+Tuomas Haarnoja, Aurick Zhou, Kristian Hartikainen, George Tucker, Sehoon Ha, Jie Tan, Vikash Kumar, Henry Zhu, Abhishek Gupta, Pieter Abbeel, Sergey Levine.  
 arXiv, 2019.
 
-Dexterous Manipulation with Deep Reinforcement Learning | [Paper](https://arxiv.org/abs/1810.06045)
-**Henry Zhu***, Abhishek Gupta*, Aravind Rajeswaran, Sergey Levine, Vikash Kumar. 
+
+Dexterous Manipulation with Deep Reinforcement Learning | [Paper](https://arxiv.org/abs/1810.06045)  
+**Henry Zhu***, Abhishek Gupta*, Aravind Rajeswaran, Sergey Levine, Vikash Kumar.  
 _International Conference on Robotics and Automation (ICRA), 2019_.
