@@ -20,20 +20,20 @@ Publications
 =====
 
 **Ingredients of Real World Robotic Reinforcement Learning** | [Paper](https://arxiv.org/abs/2004.12570) | [Video](https://iclr.cc/virtual_2020/poster_rJe2syrtvS.html) | [Blog](https://bair.berkeley.edu/blog/2020/04/27/ingredients/)  
-**Henry Zhu**, Justin Yu, Abhishek Gupta, Dhruv Shah, Avi Singh, Vikash Kumar, Sergey Levine.  
-Spotlight presentation at _International Conference on Learning Representations (ICLR) 2020_. 
+_Henry Zhu_, Justin Yu, Abhishek Gupta, Dhruv Shah, Avi Singh, Vikash Kumar, Sergey Levine.  
+Spotlight presentation at _International Conference on Learning Representations (ICLR), 2020_. 
 
 
 **Low-Cost Robotic Benchmarks for Learning** | [Paper](https://arxiv.org/abs/1909.11639)  
-Michael Ahn, **Henry Zhu**, Kristian Hartikainen, Hugo Ponte, Abhishek Gupta, Sergey Levine, Vikash Kumar.  
+Michael Ahn, _Henry Zhu_, Kristian Hartikainen, Hugo Ponte, Abhishek Gupta, Sergey Levine, Vikash Kumar.  
 _Conference on Robotic Learning (CoRL), 2019_.
 
 
 **Applications of Soft Actor-Critic Algorithms** | [Paper](https://arxiv.org/abs/1812.05905)  
-Tuomas Haarnoja, Aurick Zhou, Kristian Hartikainen, George Tucker, Sehoon Ha, Jie Tan, Vikash Kumar, Henry Zhu, Abhishek Gupta, Pieter Abbeel, Sergey Levine.  
+Tuomas Haarnoja, Aurick Zhou, Kristian Hartikainen, George Tucker, Sehoon Ha, Jie Tan, Vikash Kumar, _Henry Zhu_, Abhishek Gupta, Pieter Abbeel, Sergey Levine.  
 arXiv, 2019.
 
 
 **Dexterous Manipulation with Deep Reinforcement Learning** | [Paper](https://arxiv.org/abs/1810.06045) | [Blog](https://bair.berkeley.edu/blog/2018/08/31/dexterous-manip/)  
-**Henry Zhu***, Abhishek Gupta*, Aravind Rajeswaran, Sergey Levine, Vikash Kumar.  
+_Henry Zhu_, Abhishek Gupta*, Aravind Rajeswaran, Sergey Levine, Vikash Kumar.  
 _International Conference on Robotics and Automation (ICRA), 2019_.
