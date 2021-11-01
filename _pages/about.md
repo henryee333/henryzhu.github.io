@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a PhD student in the CS department at Stanford University advised by Stefan Wager and Emma Brunskill. My current research interests revolve around developing and using causal inference, sequential decision making, and machine learning methods for a variety of socially impactful application areas. Current ongoing projects I'm involved with include:
-- working with Santa Clara County's Public Defenders Office to to help people get to pretrial hearings by offering transportation assistance using contextual bandits,
-- using causal inference to analyze the effectiveness of wildfire mitigation strategies (e.g. prescribed burnings).
+Hi! I'm a 2nd year computer science PhD student at Stanford University advised by [Stefan Wager](https://web.stanford.edu/~swager/index.html) and [Emma Brunskill](https://cs.stanford.edu/people/ebrun/). My current research interests revolve around developing and using causal inference and sequential decision making methods for a variety of application areas (including public policy, sustainability, healthcare). Here are some projects I'm currently involved with:
+- Working with Santa Clara County's Public Defenders Office to to help people get to pretrial hearings by offering transportation assistance. On the technical side we're using contextual bandits which are budget contrained and optimizing for multiple objectives (expected reward and fairness across protected groups).
+- Using causal inference to analyze the effectiveness of wildfire mitigation strategies (e.g. prescribed burnings).
 
-Previously as an undergraduate I worked with Profs. Sergey Levine and Abhishek Gupta to study deep reinforcement learning for real-world robotic applications.
+I also am a part of [Computing & Society](https://stanford-cscs.github.io/) and the [Stanford Tri Team](https://www.stanfordtriathlon.com/)!
+
+Previously as an undergraduate I was a part of the [Robotics and AI Lab](http://rail.eecs.berkeley.edu/) where I worked with Profs. [Sergey Levine](http://people.eecs.berkeley.edu/~svlevine/) and [Abhishek Gupta](https://abhishekunique.github.io/) researching deep reinforcement learning for real-world robotic applications.
 
 Here is my [cv](https://ryzhu.github.io/files/cv.pdf).
 
