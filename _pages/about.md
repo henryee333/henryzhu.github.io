@@ -14,15 +14,10 @@ Hi! I'm a PhD student in the CS department at Stanford University advised by Ste
 
 Previously as an undergraduate I worked with Profs. Sergey Levine and Abhishek Gupta to study deep reinforcement learning for real-world robotic applications.
 
----
-permalink: /
-title: "Publications"
-excerpt: "Publications"
-author_profile: false
-redirect_from: 
-  - /publications/
-  - /publications.html
----
+Here is my [cv](https://ryzhu.github.io/files/cv.pdf).
+
+Publications
+=====
 
 **Ingredients of Real World Robotic Reinforcement Learning**, Spotlight at International Conference on Learning Representations (ICLR) 2020. 
 **Henry Zhu**, Justin Yu, Abhishek Gupta, Dhruv Shah, Avi Singh, Vikash Kumar, Sergey Levine.
