@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a 2nd year computer science PhD student at Stanford University advised by [Stefan Wager](https://web.stanford.edu/~swager/index.html) and [Emma Brunskill](https://cs.stanford.edu/people/ebrun/). My current research interests revolve around developing and using causal inference and sequential decision making methods for a variety of application areas (including public policy, sustainability, healthcare). Here are some projects I'm currently involved with:
-- Working with Santa Clara County's Public Defenders Office to to help people get to pretrial hearings by offering transportation assistance. On the technical side we're using contextual bandits which are budget contrained and optimizing for multiple objectives (expected reward and fairness across protected groups).
-- Using causal inference to analyze the effectiveness of wildfire mitigation strategies (e.g. prescribed burnings).
+Hi! I'm a PhD student in the Computer Science department at Stanford University advised by [Stefan Wager](https://web.stanford.edu/~swager/index.html) and [Emma Brunskill](https://cs.stanford.edu/people/ebrun/). My research interests revolve around the question of how to use data and computation to assist with policy making and implementation in social domains. Some projects I'm currently involved with include (with technical keywords):
+- Reducing rates of incarceration by decreasing the number of people that fail to appear in court through text reminder and transportation assistance interventions. This is a collaboration with Santa Clara County's Public Defenders Office. (contextual multi-armed bandits, algorithmic fairness, constrained and multi-objective optimization).
+<!-- -  to to help people get to pretrial hearings by offering transportation assistance. On the technical side we're using contextual bandits which are budget contrained and optimizing for multiple objectives (expected reward and fairness across protected groups). -->
+- Analysing the effectiveness of wildfire mitigation strategies (e.g. prescribed burnings or removing hazardous fuels in forests) in California by drawing on remote sensing and forest service datasets. (spatio-temporal causal inference, remote sensing)
+- How to design randomized controlled trials when we care about being fair to particular subgroups: e.g. if we particularly want good estimates of treatment effects for vulnerable or historically understudied groups.
 
-I also spend my time with [Computing & Society](https://stanford-cscs.github.io/) and the [Stanford Tri Team](https://www.stanfordtriathlon.com/).
+I also spend my time with these communities: [Computing & Society](https://stanford-cscs.github.io/) and the [Stanford Tri Team](https://www.stanfordtriathlon.com/).
 
-If you would like to talk about any of the above, please reach out!
+If you would like to meet or talk about any of the above, please reach out!
 
 Publications
 =====
