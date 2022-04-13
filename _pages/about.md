@@ -14,6 +14,10 @@ Hi! I'm a PhD student in the Computer Science department at Stanford University 
 - _Analysing the effectiveness of wildfire mitigation strategies_ (e.g. prescribed burnings or removing hazardous fuels in forests) on in California, drawing on remote sensing and forest service datasets. (spatio-temporal causal inference, remote sensing)
 - How to _design fair randomized controlled trials_ when we particularly want accurate estimates of treatment effects for certain groups (e.g. those that may be vulnerable or historically understudied).
 
+Some questions that are driving my research more these days include:
+- How would we do data science differently if we started from the position that people are incredibly diverse and intersectional (with different wants, desires, and experiences interacting with technical systems)?
+- How can we data science be used for policy applications in a way that doesn't require a central decision maker to set the objectives and constraints? i.e. how can we design the data-assisted policy pipeline to encourage participation from and accountability to stakeholders?
+
 I also spend my time with these communities: [Computing & Society](https://stanford-cscs.github.io/) and the [Stanford Tri Team](https://www.stanfordtriathlon.com/).
 
 If you would like to meet or talk about any of the above, please reach out!
